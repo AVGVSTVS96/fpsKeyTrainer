@@ -1,20 +1,20 @@
 {
-  "type": "module",
   "name": "fps-key-trainer",
-	"version": "1.0.0",
-	"description": "A simple fps keyboard trainer",
-	"main": "fpsKbdTrainer.js",
-	"scripts": {
-    "run": "node fpsKbdTrainer.js"
-	},
-	"keywords": [
-		"fps",
-		"keyboard",
-		"trainer"
-	],
-	"author": "Bassim Shahidy",
-	"license": "MIT",
-	"dependencies": {
-		"chalk": "^5.4.1"
-	}
+  "description": "A simple fps keyboard trainer",
+  "version": "1.0.0",
+  "author": "Bassim Shahidy",
+  "license": "MIT",
+  "keywords": [
+    "fps",
+    "keyboard",
+    "trainer"
+  ],
+  "type": "module",
+  "main": "fpsKbdTrainer.js",
+  "scripts": {
+    "play": "node fpsKbdTrainer.js"
+  },
+  "dependencies": {
+    "chalk": "^5.4.1"
+  }
 }

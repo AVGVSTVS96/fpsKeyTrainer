@@ -1,77 +1,77 @@
 {
   "q": {
-    "attempts": 70,
-    "successes": 67,
-    "totalTime": 58547,
-    "errors": 3,
+    "attempts": 79,
+    "successes": 73,
+    "totalTime": 64564,
+    "errors": 6,
     "bestTime": 619,
-    "worstTime": 1140
+    "worstTime": 2097
   },
   "e": {
-    "attempts": 104,
-    "successes": 98,
-    "totalTime": 109511,
-    "errors": 6,
-    "bestTime": 737,
-    "worstTime": 1475
+    "attempts": 123,
+    "successes": 115,
+    "totalTime": 125788,
+    "errors": 8,
+    "bestTime": 558,
+    "worstTime": 2659
   },
   "r": {
-    "attempts": 88,
-    "successes": 76,
-    "totalTime": 81967,
-    "errors": 12,
+    "attempts": 106,
+    "successes": 89,
+    "totalTime": 93189,
+    "errors": 17,
     "bestTime": 486,
     "worstTime": 5508
   },
   "t": {
-    "attempts": 97,
-    "successes": 88,
-    "totalTime": 88841,
-    "errors": 9,
+    "attempts": 115,
+    "successes": 103,
+    "totalTime": 102646,
+    "errors": 12,
     "bestTime": 448,
     "worstTime": 1991
   },
   "f": {
-    "attempts": 100,
-    "successes": 91,
-    "totalTime": 92221,
+    "attempts": 110,
+    "successes": 101,
+    "totalTime": 104785,
     "errors": 9,
     "bestTime": 606,
     "worstTime": 2944
   },
   "g": {
-    "attempts": 98,
-    "successes": 88,
-    "totalTime": 105766,
-    "errors": 10,
-    "bestTime": 724,
+    "attempts": 112,
+    "successes": 100,
+    "totalTime": 119180,
+    "errors": 12,
+    "bestTime": 651,
     "worstTime": 5848
   },
   "c": {
-    "attempts": 74,
-    "successes": 70,
-    "totalTime": 69507,
-    "errors": 4,
-    "bestTime": 762,
+    "attempts": 82,
+    "successes": 77,
+    "totalTime": 75482,
+    "errors": 5,
+    "bestTime": 686,
     "worstTime": 1251
   },
   "x": {
-    "attempts": 73,
-    "successes": 67,
-    "totalTime": 64083,
+    "attempts": 79,
+    "successes": 73,
+    "totalTime": 68807,
     "errors": 6,
     "bestTime": 700,
     "worstTime": 2081
   },
   "z": {
-    "attempts": 71,
-    "successes": 69,
-    "totalTime": 78073,
+    "attempts": 85,
+    "successes": 83,
+    "totalTime": 92751,
     "errors": 2,
     "bestTime": 643,
     "worstTime": 5890
   },
   "meta": {
-    "gamesPlayed": 17
+    "gamesPlayed": 23
   }
 }
